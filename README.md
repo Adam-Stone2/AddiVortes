@@ -21,7 +21,7 @@ if (!requireNamespace("devtools", quietly = TRUE)) {
 }
 library(devtools)
 
-source_url("https://raw.githubusercontent.com/anonymous2738/AddiVortesAlgorithm/main/AddiVortesMainCode.R")
+source_url("https://raw.githubusercontent.com/Adam-Stone2/AddiVortes/main/AddiVortesMainCode.R")
 
 ```
 The following function can then be used in Rstudio.
@@ -76,7 +76,7 @@ Benchmark Real Datasets
 To import the real-world benchmark datasets used in the paper in Rstudio one can run the following code:
 
 ```r
-source_url("https://raw.githubusercontent.com/anonymous2738/AddiVortesAlgorithm/main/Datasets.R")
+source_url("https://raw.githubusercontent.com/Adam-Stone2/AddiVortes/main/Datasets.R")
 
 ```
 
@@ -103,7 +103,7 @@ To reproduce the figures in the paper, source the following Github page by runni
 
 ```r
 
-source_url("https://raw.githubusercontent.com/anonymous2738/AddiVortesAlgorithm/main/CodeForFigures.R")
+source_url("https://raw.githubusercontent.com/Adam-Stone2/AddiVortes/main/CodeForFigures.R")
 
 ```
 
