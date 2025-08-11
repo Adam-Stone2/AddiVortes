@@ -1,3 +1,11 @@
+ALERT
+==========
+
+An updated package can be found:
+
+https://johnpaulgosling.github.io/AddiVortes/
+
+
 AddiVortes
 ===========
 
