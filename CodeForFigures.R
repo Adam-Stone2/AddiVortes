@@ -1039,8 +1039,8 @@ figure4<-function(){
     }
   
     
-    plot(AverageNumberOfDim,type="l",xlab="MCMC iteration", ylab="Average Number Of Dimensions per Tessellaion")
-    plot(AverageNumberOfCells,type="l",xlab="MCMC iteration", ylab="Average Number Of Centers per Tessellaion")
+    plot(AverageNumberOfDim,type="l",xlab="MCMC iteration", ylab="Average Number Of Dimensions per Tessellation")
+    plot(AverageNumberOfCells,type="l",xlab="MCMC iteration", ylab="Average Number Of Centers per Tessellation")
   
     
   }
